@@ -1,6 +1,5 @@
 # Machine Learning Driven Dollar Neutral Equity Strategy With Volatility Targeting and Monte Carlo Significance Testing
 <img width="1281" height="56" alt="image" src="https://github.com/user-attachments/assets/8a31be87-8b83-4674-bd6d-99c9f30edabb" />
-
 **Overview**
 
 This project develops and rigorously validates a cross sectional dollar neutral long short equity strategy using machine learning. The objective is to evaluate whether nonlinear models can improve stock ranking accuracy and generate economically meaningful cross sectional alpha under realistic backtesting constraints.
